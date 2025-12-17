@@ -191,7 +191,6 @@ Each repository defines its own license and scope.
 The organization exists to preserve **architectural coherence** over time.
 
 
-
 ---
 
 
