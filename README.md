@@ -1,6 +1,5 @@
 # Hestia-system
 
-
 **Hestia-system** is an architectural framework for building intention-ready systems,
 designed from the ground up for constrained environments and distributed orchestration.
 
